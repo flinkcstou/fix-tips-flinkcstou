@@ -136,3 +136,81 @@ The connection to the server was unsuccessful (file:///ansdorid_assets/www/index
 
 Касательно проблемы с задержкой 300мс, мы у себя на проекте используем FastClick библиотечку (https://github.com/ftlabs/fastclick)
  
+
+
+**Ahead-of-Time compiling**
+
+
+- Building applications to run on IOS & Android? Don't forget to implement Ahead-of-Time (AoT) compiling with the addition of the --prod flag:
+
+`ionic cordova build ios --prod`
+
+`ionic cordova build android --release --prod`
+
+Ahead-of-Time compiling improves performance by compiling templates at build time NOT runtime. This leads to faster rendering of views and decreased launch times for applications.
+
+Additionally any template binding errors that may exist are reported during the build process allowing developers to resolve such issues BEFORE they ship their code.
+
+
+**3. Minimise system intensive processes**
+
+Handling asynchronous operations inside your applications?
+
+Use callbacks or, given Ionic/Angular's built-in support, Promises and Observables wherever possible as these do not lock up your application or any underlying processes that are taking place.
+
+Avoid the use of JavaScript timers such as SetInterval or setTimeout for asychronous operations and limit their presence in your application logic wherever possible as they are quite intensive on your device's system resources.
+
+Implementing CSS animations?
+
+Use CSS transitions and transforms together to take advantage of GPU hardware acceleration BUT do so sparingly as this can be very system intensive causing your device battery to drain while simultaneously raising thermal output.
+
+Can service workers be used to handle background tasks?
+
+What about using battery status to limit certain operations within your application? For example, you might want to prevent CSS/JS animations being triggered if the battery level falls below 60%.
+
+
+
+**6. Data persistence**
+
+Avoid local storage in favour of a database solution wherever possible.
+
+Local storage has limitations in the quantity of data that can be stored, doesn't always behave consistently across different browsers and, bizarrely, sometimes "empties" itself without being prompted to do so.
+
+Database solutions include the _Ionic Native SQLite plugin_( https://ionicframework.com/docs/native/sqlite/ ) or the incredibly powerful PouchDB ( https://pouchdb.com/ ) which can automatically synchronise application data with (if installed on your server) _CouchDB._ ( http://couchdb.apache.org/ )
+
+I have written a number of articles *discussing building Ionic applications with PouchD*B. ( http://masteringionic.com/blog/archive/tag/pouchdb )
+
+
+**8. Efficiently handle media content**
+
+Can images be deployed as SVG's to cut down on file size (and aid with responsiveness over different screen sizes without requiring multiple different files to accomplish this)?
+
+Have bitmap images been compressed to reduce file sizes - particularly if being loaded/requested remotely?
+
+Could CSS sprites be used to optimise image sizes?
+
+Would an application's images/video/audio assets be better handled through a Content Delivery Network?
+
+When removing media from the component template view be sure to remove any and all references to that media element within the component logic (see point 5).
+
+**9. Test, test and test some more**
+
+Test non-cordova related application logic in your desktop browser with the developer tools of your choice (substitute the following examples using Safari with Google or Firefox if you use those browsers).
+
+Make extensive use of console logging where relevant. Analyse network request/response times and test DOM rendering/browser repaint times with Safari's Timelines. Verify application logic flows with Safari's Debugger.
+
+Run performance tests that measure timings for different operations (I.e. network requests, array iterations etc).
+
+Use Xcode and Android simulators if you don't have a suite of testing devices (and how many developers can afford to continually add to and update the new devices being released every year?)
+
+Alternatively investigate how your application performs on different devices using _opendevicelabs.com_. ( https://opendevicelab.com/ )
+
+I would recommend these at a bare minimum but, as with all things development related, you can test and test to the point where it becomes an obsession.
+
+Simply find what works for your project needs and run with that.
+
+
+
+**How to optimize performance of Ionic 3.x PWA**
+
+ - http://meumobi.github.io/ionic/2018/05/02/optimizing-performance-ionic-pwa.html

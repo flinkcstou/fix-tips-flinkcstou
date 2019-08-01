@@ -68,3 +68,9 @@
  - Google Analytics             => https://blog.nraboy.com/2014/06/using-google-analytics-ionicframework/
  - Urls externas                => https://blog.nraboy.com/2014/07/launch-external-urls-ionicframework/
  - Templates por plataforma     => http://gonehybrid.com/how-to-create-a-different-tab-layout-per-platform-in-ionic/
+ 
+ 
+ **optimize**
+ 
+ How to optimize performance of Ionic 3.x PWA - http://meumobi.github.io/ionic/2018/05/02/optimizing-performance-ionic-pwa.html
+ 
