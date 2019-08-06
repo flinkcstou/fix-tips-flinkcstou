@@ -214,3 +214,4 @@ Simply find what works for your project needs and run with that.
 **How to optimize performance of Ionic 3.x PWA**
 
  - http://meumobi.github.io/ionic/2018/05/02/optimizing-performance-ionic-pwa.html
+ 

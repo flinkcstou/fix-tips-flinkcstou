@@ -74,3 +74,6 @@
  
  How to optimize performance of Ionic 3.x PWA - http://meumobi.github.io/ionic/2018/05/02/optimizing-performance-ionic-pwa.html
  
+ Ionic 4 and the Lifecycle Hooks in Angular - https://medium.com/@paulstelzer/ionic-4-and-the-lifecycle-hooks-4fe9eabb2864
+ 
+ 

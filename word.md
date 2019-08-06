@@ -28,3 +28,12 @@ stock-ticker выдаст данные о финансовых графиках 
 CSS sprites изучить что это такое
 
 what is bundle.js, vendor.js, uglify.js, Reducing bundle size (minification)
+
+
+узнать про chart js in aix-mobile
+
+ ionViewWillEnter() {
+  
+  }
+  ionViewWillLeave() {
+  }
