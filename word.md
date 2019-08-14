@@ -37,3 +37,16 @@ what is bundle.js, vendor.js, uglify.js, Reducing bundle size (minification)
   }
   ionViewWillLeave() {
   }
+  
+  email Composer
+  
+  /mw/currency-list
+  
+  
+  10
+ ,08,2019 исправить this.storage.get(Currency ) если нету деволтного, нужно зассетить 
+ 
+  
+  
+  
+  
