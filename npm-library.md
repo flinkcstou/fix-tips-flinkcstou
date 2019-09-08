@@ -51,3 +51,15 @@
   изучить
   
   
+  **коммандная строка fuck**
+   
+   https://github.com/nvbn/thefuck
+   
+   **compodoc for Documentation fro Angular** 
+   
+   https://www.npmjs.com/package/@compodoc/compodoc
+   
+   https://compodoc.app/guides/getting-started.html
+   
+   **git-flow**
+   изучить

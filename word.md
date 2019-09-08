@@ -29,24 +29,15 @@ CSS sprites изучить что это такое
 
 what is bundle.js, vendor.js, uglify.js, Reducing bundle size (minification)
 
+TsLInt
+JSLint
 
-узнать про chart js in aix-mobile
+1 изучить enterAnimation, посмотреть как правильно использовать ngClass ngStyle
+еще dynamically change color in ionic, есть посмотреть видео ролик в ютубе
 
- ionViewWillEnter() {
-  
-  }
-  ionViewWillLeave() {
-  }
-  
-  email Composer
-  
-  /mw/currency-list
-  
-  
-  10
- ,08,2019 исправить this.storage.get(Currency ) если нету деволтного, нужно зассетить 
- 
-  
+изучить как правильно создавать анимацию в angular и постраться использовать animated.css
+
+
   
   
   

@@ -215,3 +215,27 @@ Simply find what works for your project needs and run with that.
 
  - http://meumobi.github.io/ionic/2018/05/02/optimizing-performance-ionic-pwa.html
  
+
+
+**Problem SplashScreen iPhoneX + and Problem View Display iPhone X +**
+
+`Making Ionic/Cordova App compatible for IPhone X`
+
+
+- https://codeburst.io/making-ionic-cordova-app-compatible-for-iphone-x-c84d62b61aa9
+
+- https://stackoverflow.com/questions/46232812/cordova-app-not-displaying-correctly-on-iphone-x-simulator?source=post_page-----c84d62b61aa9----------------------
+
+- https://stephenradford.me/removing-the-white-bars-in-safari-on-iphone-x/
+
+- https://medium.com/the-web-tub/supporting-iphone-x-for-mobile-web-cordova-app-using-onsen-ui-f17a4c272fcd
+
+- https://blog.phonegap.com/displaying-a-phonegap-app-correctly-on-the-iphone-x-c4a85664c493
+
+
+- ![alt text](storyBoard vs MainView.jpeg)
+
+
+
+
+
