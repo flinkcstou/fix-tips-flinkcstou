@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "launch": "ng run app:serve --host=0.0.0.0 --port=8100",
+    "lint": "ng lint",
+    "e2e": "ng e2e",
+    "compodoc": "./node_modules/.bin/compodoc -p tsconfig.json -w -s",
+    "compodoc-npx": "npx compodoc -p src/tsconfig.app.json",
+    "source-map": "source-map-explorer www/main.js ./.sourcemap/main.js.map --html > result.html",
+    "analyze": "webpack-bundle-analyzer www/stats.json"
+  }
+}
