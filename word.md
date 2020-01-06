@@ -45,3 +45,13 @@ Cемантическая версионность https://semver.org/lang/ru/
 
   
   
+
+CPU, RAM, js heap, Утечки памяти,
+правильно использовать perfomance
+
+stock-ticker выдаст данные о финансовых графиках в инете 
+ 
+
+CSS sprites изучить что это такое
+
+what is bundle.js, vendor.js, uglify.js, Reducing bundle size (minification)
