@@ -55,3 +55,6 @@ stock-ticker выдаст данные о финансовых графиках 
 CSS sprites изучить что это такое
 
 what is bundle.js, vendor.js, uglify.js, Reducing bundle size (minification)
+
+
+### ВСЕ О ANGULAR = https://habr.com/ru/post/348818/#s2_46
