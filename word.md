@@ -62,10 +62,11 @@ what is bundle.js, vendor.js, uglify.js, Reducing bundle size (minification)
 
 choose license -> https://choosealicense.com/
 
+## git commit
 <type>[optional scope]: <description>
 [optional body]
 [optional footer]
-
+---
 
 gitignore gitignore.io
 
@@ -87,3 +88,11 @@ type: "feat",
       "ci",
       "chore",
       "revert"
+
+в начале проекта должно добавиться sertificate 
+потом должны добавиться все стандарты документы по которым мы следуем 
+rfc =https://www.ietf.org/rfc/rfc2119.txt
+semantic git commit - https://www.conventionalcommits.org
+Cемантическая версионность https://semver.org/lang/ru/
+change log - https://keepachangelog.com/en/1.0.0/
+choose license -> https://choosealicense.com/
