@@ -143,3 +143,11 @@ come
         });
       }
   }
+
+
+show main menu
+show toolbar
+show statusbar
+show line numbers
+show indent guides
+show breadcrumbs
