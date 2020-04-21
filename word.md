@@ -144,6 +144,7 @@ come
       }
   }
 
+json-server
 
 show main menu
 show toolbar
