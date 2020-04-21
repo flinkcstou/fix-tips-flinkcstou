@@ -144,6 +144,7 @@ come
       }
   }
 
+test input type for mobile https://better-mobile-inputs.netlify.app/
 json-server
 
 show main menu
