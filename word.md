@@ -153,3 +153,18 @@ show statusbar
 show line numbers
 show indent guides
 show breadcrumbs
+
+snippets https://blog.angular-university.io/javascript-debugging-tips-using-chrome-dev-tools-deb-js-and-more/
+
+preloadStrategy full example: https://www.concretepage.com/angular-2/angular-custom-preloading-strategy
+
+create multiple decorators > https://stackoverflow.com/questions/39026224/how-to-compose-multiple-typescript-class-decorators
+
+
+
+intellij Idea: Edit >Macros > StartMacro recording 
+
+change languages > tweaks
+
+
+ng generate module home-child --route home-child --module /home/home.module

@@ -1,0 +1,368 @@
+in_app_disclosure_body_1 = `It is important that you understand what information we collect, process and how you can control it. We explain it in detail in our `;
+  in_app_disclosure_body_2 = `and you can review the key points below. `;
+  privacy_policy_title = `Privacy Policy`;
+  in_app_disclosure_body3 = `<div>
+              <b>Why do we use your data?</b> To provide you our app and its contents, any other information, products
+              or services that you request from us, prevent and address technical issues, improve our app and services,
+              and more.
+            </div>
+            <div>
+              Personal data we collect and process include:
+            </div>
+            <ul>
+              <li><b>Registration Data</b>
+                <div>This may include your full name, date of birth, place of residence, email address, telephone
+                  number,
+                  identification document or passport details, financial information and other data.
+                </div>
+              </li>
+
+              <li><b>Device Data</b>
+                <div>This may include information about your mobile device and internet connection such as your IP
+                  address,
+                  app version, unique device identifiers, operating system, mobile network information and other
+                  diagnostic data.
+                </div>
+              </li>
+
+              <li><b>Usage Data</b>
+                <div>This may include information about whenever you visit, access and use the app.</div>
+              </li>
+              <li><b>Location Data</b>
+                <div>This is information about your location.</div>
+              </li>
+            </ul>
+            <div>
+              <b>Third-Party Information Collection.</b> Our app uses the services of the third party service providers
+              that may collect information about you or your device to maintain and provide our app and its contents,
+              and any other information, products or services that you request from us.
+            </div>
+            <div>
+              At any time, you may send us an email to <a href="mailto:mobile@aix.kz">mobile@aix.kz</a> with any request
+              to access, correct, or delete any
+              personal data you have provided to us and which shall be processed in accordance with our Privacy Policy.
+            </div>`;
+
+  innKitay_1 = '很重要的是您必须了解我们如何收集、处理哪些信息，以及您如何控制这些信息。我们在';
+  innKitay_2 = '中对此进行了详细解释，您可以熟悉以下要点：';
+  innKitay_privacy_title = '隐私政策';
+  innKitay = `<div>
+              <b>我们为什么要使用您的数据？</b> 是为了当您要求我们提供我们的应用程序和其内容，其他任何信息，服务和产品我们能够提供他们，预防和解决技术问题，改善我们的应用和服务等等。
+            </div>
+            <div>
+              我们收集和处理的个人数据包括：
+            </div>
+            <ul>
+              <li><b>注册数据</b>
+                <div>这些数据包括您的全名、出生日期、居住地、电子邮件、电话号码、身份证或护照信息、财务信息和其他细节。
+                </div>
+              </li>
+
+              <li><b>设备数据</b>
+                <div>这些数据包括有关您的移动设备和互联网连接的信息，如您的IP地址、应用程序版本、独特的设备标识符、操作系统、移动网络信息和其他诊断信息。</div>
+              </li>
+
+              <li><b>使用数据</b>
+                <div>这些数据包括有关每次访问、访问权限和使用应用程序的信息。</div>
+              </li>
+              <li><b>位置数据</b>
+                <div>这些数据是关于你所在位置信息。</div>
+              </li>
+            </ul>
+            <div>
+              <b>第三方信息收集。</b> 我们的应用程序使用第三方服务提供商，他们可能会收集有关您或您的设备信息，以便支持和提供我们应用程序及其内容以及您向我们申请的任何其他信息、产品或服务。
+            </div>
+            <div>
+              您可以在任何时候向我们发送电子邮件至 <a href="mailto:mobile@aix.kz">mobile@aix.kz</a>
+              要求访问、纠正或删除您提供给我们的任何个人资料，我们将根据我们的隐私政策进行处理。
+            </div>`;
+
+  innRus_1 = 'Важно, чтобы вы понимали, какую информацию мы собираем, обрабатываем и как вы можете ее контролировать. Мы подробно объясняем это в нашей ';
+  innRus_2 = 'вы можете ознакомиться с ключевыми моментами ниже.';
+  innRus_policy = 'Политике конфиденциальности,';
+  innRus = `<div>
+              <b>Почему мы используем ваши данные?</b> Чтобы предоставить вам наше приложение и его содержимое, любую
+              другую информацию, продукты или услуги, которые вы запрашиваете у нас, предотвратить и решить технические
+              проблемы, улучшить наше приложение и услуги и многое другое.
+            </div>
+            <div>
+              Личные данные, которые мы собираем и обрабатываем, включают в себя:
+            </div>
+            <ul>
+              <li><b>Регистрационные данные</b>
+                <div>Это может включать ваше полное имя, дату рождения, место жительства, адрес электронной почты, номер
+                  телефона, идентификационный документ или паспортные данные, финансовую информацию и другие данные.
+                </div>
+              </li>
+
+              <li><b>Данные устройства</b>
+                <div>Это может включать информацию о вашем мобильном устройстве и интернет-соединении, такую ​​как ваш
+                  IP-адрес, версия приложения, уникальные идентификаторы устройства, операционная система, информация о
+                  мобильной сети и другие диагностические данные.
+                </div>
+              </li>
+
+              <li><b>Данные об использовании</b>
+                <div>Это может включать информацию о каждом посещении, доступе и использовании приложения.</div>
+              </li>
+              <li><b>Данные о местоположении</b>
+                <div>Эта информация о вашем местоположении.</div>
+              </li>
+            </ul>
+            <div>
+              <b>Сбор информации третьей стороной.</b> Наше приложение использует услуги сторонних поставщиков услуг,
+              которые могут собирать информацию о вас или вашем устройстве для поддержки и предоставления нашего
+              приложения и его содержимого, а также любой другой информации, продуктов или услуг, которые вы
+              запрашиваете у нас.
+            </div>
+            <div>
+              В любое время вы можете отправить нам электронное письмо на адрес <a href="mailto:mobile@aix.kz">mobile@aix.kz</a>
+              с любым запросом на доступ, исправление или удаление любых личных данных, которые вы нам предоставили и
+              которые будут обрабатываться в соответствии с нашей Политикой конфиденциальности.
+            </div>`;
+  inKazakh_1 = 'Біздің қандай ақпаратты жинайтынымызды, өңдейтінімізді және оны сіздің қалай бақылай алатындығыңызды түсіну маңызды. Біз мұны біздің ';
+  inKazakh_2 = ' егжей-тегжейлі түсіндіреміз, төменде сіздер негізгі мезеттермен таныса аласыздар.';
+  inKazakh_policy = 'Құпиялылық саясатымызда';
+  inKazakh = `<div>
+              <b>Сіздің деректеріңізді біз неліктен пайдаланамыз?</b> Сізге біздің қосымшамыз бен оның ішкі мазмұнын,
+              сіз бізден сұрайтын кез келген басқа ақпаратты, өнімдерді немесе қызметтерді ұсыну үшін, техникалық
+              проблемалардың алдын алу және оларды шешу үшін, біздің қосымшамыз бен көрсететін қызметтерімізді жақсарту
+              және көптеген тағы басқалар үшін.
+            </div>
+            <div>Біз жинайтын және өңдейтін жеке деректерге келесілер кіреді:
+            </div>
+            <ul>
+              <li><b>Тіркеу деректері</b>
+                <div>Бұған сіздің толық атыңыз, туған күніңіз, айыңыз бен жылыңыз, тұратын жеріңіз, электрондық
+                  поштаңыздың мекенжайы, телефоныңыздың нөмірі, сәйкестендіру құжаты немесе төлқұжаттық деректеріңіз,
+                  қаржылық ақпарат және басқа деректер кіруі мүмкін.
+                </div>
+              </li>
+
+              <li><b>Құрылғының деректері</b>
+                <div>Бұған сіздің мобильдік құрылғыңыз бен сіздің ІР-мекенжайыңыз сияқты интернет-қосылысыңыз туралы
+                  ақпарат, қосымшаның нұсқасы, құрылғының бірегей сәйкестендіргіштері, операциялық жүйе, мобильдік желі
+                  туралы ақпарат және басқа диагностикалық деректер кіруі мүмкін.
+                </div>
+              </li>
+
+              <li><b>Пайдалану туралы деректер</b>
+                <div>Бұған қосымшаға әрбір кіру, оған қолжетімділік және оны пайдалану туралы ақпарат кіруі мүмкін.
+                </div>
+              </li>
+              <li><b>Орналасқан жер туралы деректер</b>
+                <div>Бұл сіздің орналасқан жеріңіз туралы ақпарат.</div>
+              </li>
+            </ul>
+            <div>
+              <b>Үшінші тараптың ақпарат жинауы.</b> Біздің қосымшамыз бен оның ішкі мазмұнын, сонымен қатар сіз бізден
+              сұрайтын кез келген басқа ақпаратты, өнімдерді немесе көрсетілетін қызметтерді қолдау және ұсыну үшін сіз
+              немесе сіздің құрылғыңыз туралы ақпарат жинауы мүмкін сыртқы қызмет жеткізушілер көрсететін қызметтерді
+              біздің қосымшамыз пайдаланады.
+            </div>
+            <div>
+              Сіз бізге берген және біздің Құпиялылық саясатымызға сәйкес өңделетін кез келген жеке деректеріңізге
+              қолжетімділік беру, оларды түзету немесе жою жөнінде кез келген сұратыммен кез келген уақытта бізге <a
+              href="mailto:mobile@aix.kz">mobile@aix.kz</a> электрондық мекенжайына электрондық хат жолдауыңызға болады.
+            </div>`;
+
+
+
+
+
+title = 'PRIVACY POLICY OF AIX MOBILE APPLICATION';
+  body = `<div>
+              This Privacy Policy of the AIX Mobile App (“<b>Privacy Policy</b>”) informs you of our policies regarding
+              collection and processing of your Personal Data (which includes performing any operation or set of
+              operations on the Personal Data, whether or not by automatic means, and includes, for example, recording,
+              organisation, storage, adaptation or alteration, retrieval, use, disclosure by transmission, dissemination
+              or otherwise making available, alignment or combination, blocking, erasure or destruction of the Personal
+              Data), as it defined below, when you use our App and the choices you have associated with that data. You
+              should read it carefully together with the App Terms of AIX Mobile App. By accepting this Privacy Policy,
+              you agree to the collection, processing, use, transfer and disclosure of your Personal Data in accordance
+              with this Privacy Policy.
+            </div>
+            <app-center-text><b>DEFINITIONS</b></app-center-text>
+            <div>
+              Unless otherwise defined in this Privacy Policy, terms used but not defined in this Privacy Policy have
+              the same meanings as in our App Terms of AIX Mobile App.
+            </div>
+            <div>
+              "<b>AIX</b>", "<b>we</b>", "<b>us</b>" and "<b>our</b>" shall mean the Astana International Exchange
+              Limited and any agents we appoint to provide all or part of the Mobile App.
+            </div>
+            <app-center-text><b>TYPES OF DATA COLLECTED</b></app-center-text>
+            <div><b>Personal Data</b></div>
+            <div>
+              While using our App, we may ask you to provide us with certain personally identifiable information that
+              shall be used to contact or identify you.
+            </div>
+            <div>
+              Personally identifiable information may include, but is not limited to your full name, nationality, place
+              of residence, email address, other personal contact details (including telephone number and postal
+              address), job title, employer, date of birth, financial information, bank account details, your
+              photograph, your national identification document or passport, marital status, and also the Usage Data,
+              the Device Data, and the Location Data, as they defined below (“<b>Personal Data</b>”).
+            </div>
+            <div>
+              The App uses the services of the third party service providers that may collect Personal Data to maintain
+              and provide our App, its’ content, and any other information, products or services that you request from
+              us. You can familiarize yourself with the privacy policies of the third party service providers following
+              the hyperlinks:
+            </div>
+            <ul>
+              <li><a href="https://policies.google.com/privacy" target="_blank">Google Play Services</a>
+              </li>
+              <li><a href="https://www.facebook.com/about/privacy/update/printable" target="_blank">Facebook</a>
+              </li>
+              <li><a href="https://www.jiguang.cn/en/license/privacy" target="_blank">Jiguang</a>
+              </li>
+            </ul>
+            <div>
+              We are not responsible for the completeness and performance of the privacy policies of the third party
+              service providers or any of their obligations in respect of any Personal Data.
+            </div>
+            <div><b>Usage Data</b></div>
+            <div>
+              We may also collect information about whenever you visit, access, and use the App by or through the
+              Device, including traffic data, logs, and other communication data and the menus of our App that you
+              access and use, the time and date of your visit, the time spent on those menus (“<b>Usage Data</b>”).
+            </div>
+            <div><b>Device Data</b></div>
+            <div>
+              We may collect information about your mobile device and internet connection such as your Device’s Internet
+              Protocol address (“<b>IP address</b>”), App version, unique device identifiers, operating system, mobile
+              network information, and the Device's telephone number and other diagnostic data (“<b>Device Data</b>”).
+            </div>
+            <div><b>Location Data</b></div>
+            <div>
+              We may use and store information about your location if you give us permission to do so (“<b>Location
+              Data</b>”). We use this data to provide features of our App, and to improve and customize it.
+            </div>
+            <div>You can enable or disable location services when you use our App at any time, through your Device
+              settings.
+            </div>
+            <div><b>Tracking Technologies</b></div>
+            <div>
+              We use tracking technologies to track the activity on our App and hold certain information.
+              Tracking technologies such as beacons, tags, and scripts are used to collect and track information and to
+              improve and analyze our App.
+            </div>
+            <app-center-text><b>USE OF DATA</b></app-center-text>
+            <div>
+              The AIX processes the collected Personal Data for various purposes, such as:
+            </div>
+            <ul>
+              <li>to maintain and provide our App and its contents, and any other information, products or services that
+                you request from us;
+              </li>
+              <li>to notify you about changes to our App, to our services and your account;
+              </li>
+              <li>to provide customer support;
+              </li>
+              <li>to gather analysis or valuable information so that we can improve our App;
+              </li>
+              <li>to monitor the usage of our App;
+              </li>
+              <li>to detect, prevent and address technical issues;
+              </li>
+              <li>to service, maintain and protect your account;
+              </li>
+              <li>to fulfill legal and regulatory requirements;
+              </li>
+            </ul>
+            <app-center-text><b><i>Legal Basis for processing Personal Data under AIFC Data Protection
+              Regulations</i></b></app-center-text>
+            <div>
+              The legal basis for collecting and processing the Personal Data described in this Privacy Policy depends
+              on the Personal Data we collect and the specific context in which we collect it.
+            </div>
+            <div>
+              The AIX may process your Personal Data because:
+            </div>
+            <ul>
+              <li>hereby you provide your consent to do so;
+              </li>
+              <li>the processing is in our legitimate interests and does not violate your rights;
+              </li>
+              <li>to comply with any legal obligation to which we are subject.
+              </li>
+            </ul>
+            <app-center-text><b>YOUR REPRESENTATIONS AND WARRANTIES</b></app-center-text>
+            <div>
+              Hereby by accepting the Privacy Policy you represent and warrant that:
+            </div>
+            <ul>
+              <li>you provide us with your written and explicit consent to collect and process your Personal Data for
+                the purposes and under provisions set out herein;
+              </li>
+              <li>we may store, transfer and disclose your Personal Data for the purposes set out herein or to the third
+                parties processing such Personal Data on our behalf or otherwise providing professional or other
+                services in each case wherever located in the world, provided that where your Personal Data is
+                transferred to countries or territories outside the jurisdictions that are not recognized by data
+                protection laws applicable to the AIFC as offering an adequate level of data protection, we shall put in
+                place appropriate data transfer mechanisms as required by the AIFC Data Protection Regulations and Data
+                Protection Rules (“<b>Data Protection Laws</b>”);
+              </li>
+              <li>you will immediately notify us on any changes and/or additions to your Personal Data, with the
+                submission of the relevant supporting documents.
+              </li>
+            </ul>
+            <app-center-text><b>RETENTION OF DATA</b></app-center-text>
+
+            <div>
+              We will retain your Personal Data only for as long as is necessary for the purposes set out in this
+              Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal
+              obligations (for example, if we are required to retain your data to comply with applicable laws), resolve
+              disputes, and enforce our legal agreements and policies.
+            </div>
+            <div>We will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a
+              shorter period of time, except when this data is used to strengthen the security or to improve the
+              functionality of our App, or we are legally obligated to retain this data for longer time periods.
+            </div>
+            <app-center-text><b>SECURITY OF DATA</b></app-center-text>
+
+            <div>While we undertake our best endeavors to use appropriate means to protect your Personal Data, we cannot
+              guarantee its absolute safety based on existing general risks related to electronic and internet storage.
+            </div>
+            <div>You may send us an email at <a href="mailto:mobile@aix.kz">mobile@aix.kz</a> to request access to,
+              correct, amend or delete any Personal Data that you have provided to us. We cannot delete your Personal
+              Data except by also deleting your user account. We may not accommodate a request to change or delete
+              information if we believe the change or deletion would violate any law or legal requirement or cause the
+              information to be incorrect.
+            </div>
+            <div>In certain circumstances, if the processing of Personal Data contravenes the Data Protection Laws, you
+              have the following data protection rights:
+            </div>
+            <ul>
+              <li><b>Right of rectification. </b>You have a right to rectify your Personal Data if information in it is
+                inaccurate or incomplete.
+              </li>
+              <li><b>Right to object. </b>You have a right to object to our use and processing of your Personal Data.
+              </li>
+              <li><b>Right to block. </b>You have a right to request us to block your Personal Data.
+              </li>
+              <li><b>Right to withdraw consent. </b>You have a right to withdraw your consent related to use and
+                processing of your Personal Date at any time following the provisions provided herein.
+              </li>
+              <li><b>Right to erasure. </b>You have a right to request us to erase your Personal Data from our App.
+              </li>
+            </ul>
+            <div>
+              Please note that we may ask you to verify your identity before responding to such requests.
+            </div>
+            <app-center-text><b>CHANGES TO THIS PRIVACY POLICY</b></app-center-text>
+            <div>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the
+              new Privacy Policy.
+            </div>
+            <div>We will let you know via email and/or a prominent notice on our App, prior to the change becoming
+              effective and update the “effective date” at the top of this Privacy Policy.
+            </div>
+            <div>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy
+              Policy are effective when they are posted in the App.
+            </div>
+            <app-center-text><b>CONTACT US</b></app-center-text>
+            <div>
+              If you have any questions about this Privacy Policy, you may contact us via email:<a
+              href="mailto:mobile@aix.kz">mobile@aix.kz</a>
+            </div>`;
