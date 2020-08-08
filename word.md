@@ -175,3 +175,4 @@ ng generate module home-child --route home-child --module /home/home.module
 
 https://habr.com/ru/company/tinkoff/blog/501084/
 https://www.techiediaries.com/angular-router-multiple-outlets/
+sds
