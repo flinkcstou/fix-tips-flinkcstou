@@ -60,6 +60,9 @@ what is bundle.js, vendor.js, uglify.js, Reducing bundle size (minification)
 
 ### ВСЕ О ANGULAR = https://habr.com/ru/post/348818/#s2_46
 
+
+### ВСЕ О ANGULAR = https://habr.com/ru/post/348818/#s2_46
+
 choose license -> https://choosealicense.com/
 
 ## git commit
