@@ -1,6 +1,11 @@
-создать все контроллеры в express node js  
+~~создать все контроллеры в express node js  
 css исправить для form css 
 создать объект из листов 
 
 посмотреть заново grid and flex 
 начать верстать страницы
+
+
+изучить font size em 
+
+fingerprint io~~
